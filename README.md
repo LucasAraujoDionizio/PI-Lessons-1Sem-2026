@@ -46,3 +46,5 @@ Ser uma ferramenta de referência no incentivo à educação e ao desenvolviment
 - **Versionamento:** GitHub
 
 ---
+## Telas
+https://www.figma.com/design/ZWotlHr2fOtWVkuh3DeRDi/Telas?node-id=0-1&p=f 

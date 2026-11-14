@@ -42,7 +42,7 @@ Ser uma ferramenta de referência no incentivo à educação e ao desenvolviment
 
 - **Frontend:** TailWind e HTML
 - **Backend:** JavaScript
-- **Hospedagem:**Github pages
+- **Hospedagem:** Github pages
 - **Versionamento:** GitHub
 
 ---
